@@ -1,6 +1,6 @@
 * {
-  font-family: monospace;
-  font-weight: 100;
+  font-family: Roboto, monospace;
+  font-weight: lighter;
 }
 
 body {
@@ -12,4 +12,6 @@ body {
 
   color: white;
   background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 74));
+  margin-top: 0;
+  margin-bottom: 0;
 }
